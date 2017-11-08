@@ -1,0 +1,2 @@
+# quickbuild
+Puppet quickbuild module
